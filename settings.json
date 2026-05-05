@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MomoiroKitty.aternos.me",
+    "ip": "MomoiroKitty.aternos.me:34726",
     "port": 34726,
     "version": "",
     "try-creative": false
